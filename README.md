@@ -1,64 +1,67 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=00FFCC&center=true&vCenter=true&width=1000&lines=Hi+👋,+I'm+Rajib+(Rajiba+Lochan+Sahoo)+💡;MSc+Engineering+Mathematics+🎓;Machine+Learning+🤖+|+Applied+Statistics+📊+|+Mathematical+Problem+Solving+⚡)](https://github.com/rajiba-sahoo2202)
-
-# 👋 Hello, I'm **Rajib (Rajiba Lochan Sahoo)**  
-
-## 🤖 Machine Learning | 📊 Applied Statistics | 🔢 Mathematical Problem Solving  
-
-I am a postgraduate student in **Engineering Mathematics** at the **Institute of Chemical Technology, Mumbai**, passionate about **Artificial Intelligence, Data Science, and Mathematical Modeling**.  
-
-💡 My focus is on applying **Machine Learning, R Programming, Quarto Reports, and Statistical Methods** to solve real-world problems in **infrastructure, environment, and communication systems**.  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=00FFCC&center=true&vCenter=true&width=1000&lines=Hi+👋,+I'm+Rajib+(Rajiba+Lochan+Sahoo)+💡;MSc+Engineering+Mathematics+🎓;Machine+Learning+🤖+|+Applied+Statistics+📊+|+Optimization+⚡)](https://github.com/rajiba-sahoo2202)
 
 ---
 
-### 💻 About Me  
+# 👋 About Me  
 
-- 🔎 **Machine Learning & Regression Modeling:** Experience in **Ridge, Lasso, and Partial Least Squares Regression**, applied to PMGSY (rural road projects) for **expenditure modeling** (implemented in **R + Quarto**).  
-- 📊 **Exploratory Data Analysis (EDA):** Skilled in analyzing distributions, outliers, correlations, and transformations (**log, Box-Cox**).  
-- 🧮 **Principal Component Analysis (PCA):** Worked on **covariance structures, eigen decomposition, and dimensionality reduction**.  
-- 📝 **Report Writing:** Created professional reports in **Quarto (R Markdown)** integrating **EDA, statistical modeling, and visualization**.  
-- 📚 **Continuous Learner:** Exploring **Neural Networks, Optimization, and Curved AI Architectures**.  
-- 🌦️ **Interests:** Applied AI in **Weather Prediction, Image Processing, Wireless Communication**, and **Mathematical Optimization**.  
+Hello! I’m **Rajib (Rajiba Lochan Sahoo)**, a postgraduate student in **Engineering Mathematics** at the **Institute of Chemical Technology, Mumbai**.  
 
----
+My journey blends **mathematics, data science, and machine learning**. I enjoy exploring how mathematical tools can shape **real-world solutions** — from **infrastructure economics** to **weather prediction**.  
 
-### 🚀 Project Showcase  
-
-#### 🛣️ Expenditure Modelling and Transformation – PMGSY Dataset  
-- 📌 Built predictive models using **Lasso, Ridge, and PLS regression**.  
-- 🔄 Applied **log and Box-Cox transformations**.  
-- 🎯 Performed **feature selection** for key drivers of cost.  
-- 📑 Generated a professional **Quarto report** combining **EDA, modeling, and interpretation**.  
-- **Technologies:** R, Quarto, caret, glmnet, pls, ggplot2  
-- 📂 [Repository Link](https://github.com/rajiba-sahoo2202/Expenditure-Modelling-and-Transformation)  
+🔑 **Core mindset:** I believe in *clarity, curiosity, and creativity* — clarity in data, curiosity in research, and creativity in applying AI to human problems.  
 
 ---
 
-### 🛠️ Skills & Tools  
+## 🚀 Featured Work  
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
-[![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)]()
-[![Quarto](https://img.shields.io/badge/Quarto-2D5D7B?style=for-the-badge&logo=quarto&logoColor=white)](https://quarto.org/)
-[![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)]()
-[![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)]()
-[![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)]()
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)]()
+### 🛣️ Expenditure Modelling and Transformation – *PMGSY Dataset*  
+- Developed predictive models using **Lasso, Ridge, and PLS regression**  
+- Applied **Log & Box-Cox transformations** for improved accuracy  
+- Identified **key cost drivers** in rural road project expenditures  
+- Compiled insights in a structured **Quarto report**  
 
----
-
-### 📊 GitHub Stats  
-
-![Rajib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajiba-sahoo2202&show_icons=true&theme=dark)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajiba-sahoo2202&layout=compact&theme=dark)  
+📂 [View Repository](https://github.com/rajiba-sahoo2202/Expenditure-Modelling-and-Transformation)  
 
 ---
 
-### 📬 Let's Connect!  
+## 🛠️ Skills I Use  
 
-- 💼 **LinkedIn:** [Rajib on LinkedIn](https://www.linkedin.com/in/rajiba-lochan-sahoo-706b3b2a2)  
-- 📧 **Email:** [rajiblochansahoo783@gmail.com](mailto:rajiblochansahoo783@gmail.com)  
-- 📍 **Location:** [Mumbai, Maharashtra, India](http://maps.apple.com/?address=Mumbai,%20Maharashtra,%20India)  
+- **Languages & Tools:** Python | R | Quarto | RStudio | GitHub | Google Colab  
+- **ML/Stats:** Regression, PCA, Feature Selection, Model Evaluation  
+- **Reporting:** Quarto (R Markdown), Data Visualization (ggplot2, matplotlib)  
+- **Special Focus:** Optimization, Mathematical Modeling, Applied AI  
 
 ---
 
-⚡ **Future Goals:**  
-Exploring **Curved Neural Networks**, **AI for Weather Prediction**, and **Geometric AI Architectures** to enhance **memory recall and optimization in intelligent systems**.  
+## 📊 GitHub Snapshot  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rajiba-sahoo2202&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajiba-sahoo2202&layout=compact&theme=tokyonight" height="180"/>
+</p>
+
+---
+
+## 🔮 What I’m Working On Next  
+
+### 📈 Panel Data Regression for Economic Modelling  
+I plan to explore **panel data methods (fixed & random effects)** to understand how economic and infrastructure variables evolve across regions and time.  
+
+- Tools: R (`plm`, `lme4`), Python (`linearmodels`, `statsmodels`)  
+- Aim: Combine **time-series and cross-sectional data** for deeper policy insights.  
+
+---
+
+## 📬 Let’s Connect  
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/rajiba-lochan-sahoo-706b3b2a2)  
+- 📧 [Email](mailto:rajiblochansahoo783@gmail.com)  
+- 📍 Based in **Mumbai, India** | Originally from **Odisha**  
+
+---
+
+⚡ **Long-Term Vision**  
+I aspire to contribute to **research-driven AI**, focusing on:  
+- Curved Neural Networks & Geometric AI Architectures  
+- AI for **Weather Prediction & Infrastructure Planning**  
+- Intelligent systems that enhance **memory recall and optimization**  
