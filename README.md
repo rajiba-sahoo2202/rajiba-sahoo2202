@@ -6,7 +6,7 @@
 
 Hello! I’m **Rajib (Rajiba Lochan Sahoo)**, a postgraduate student in **Engineering Mathematics** at the **Institute of Chemical Technology, Mumbai**.  
 
-My journey blends **mathematics, data science, and machine learning**. I enjoy exploring how mathematical tools can shape **real-world solutions** — from **infrastructure economics** to **weather prediction**.  
+My background started with **mathematics** and **statistics**, and gradually expanded to **optimization**, **machine learning**, and **deep learning**. I focus on using these tools to solve **real-world** problems.
 
 🔑 **Core mindset:** I believe in *clarity, curiosity, and creativity* — Clarity in understanding data, curiosity in research, and creativity in applying mathematics and AI to real-world challenges. 
 
