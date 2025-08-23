@@ -38,7 +38,9 @@ My background started with **mathematics** and **statistics**, and gradually exp
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rajiba-sahoo2202&show_icons=true&theme=tokyonight" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajiba-sahoo2202&layout=compact&theme=tokyonight" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=rajiba-sahoo2202&theme=radical&border_radius=10" height="180"/>
 </p>
+
 
 ---
 
