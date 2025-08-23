@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=00FFCC&center=true&vCenter=true&width=1000&lines=Hi+👋,+I'm+Rajib+(Rajiba+Lochan+Sahoo)+💡;MSc+Engineering+Mathematics+🎓;Machine+Learning+🤖+|+Applied+Statistics+📊+|+Optimization+⚡)](https://github.com/rajiba-sahoo2202)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=00FFCC&center=true&vCenter=true&width=1000&lines=Hi+👋,+I'm+Rajiba+Lochan+Sahoo+💡;MSc+Engineering+Mathematics+🎓;Machine+Learning+🤖+|+Applied+Statistics+📊+|+Optimization+⚡)](https://github.com/rajiba-sahoo2202)
 
 ---
 
