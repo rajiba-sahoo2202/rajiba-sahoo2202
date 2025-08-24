@@ -24,7 +24,16 @@ My background started with **mathematics** and **statistics**, and gradually exp
 
 ---
 
-## 🛠️ Skills I Use  
+## 🛠️ Skills I Use
+
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
+[![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)]()
+[![Quarto](https://img.shields.io/badge/Quarto-2D5D7B?style=for-the-badge&logo=quarto&logoColor=white)](https://quarto.org/)
+[![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)]()
+[![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)]()
+[![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)]()
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)]()
 
 - **Languages & Tools:** Python | R | Quarto | RStudio | GitHub | Google Colab  
 - **ML/Stats:** Regression, PCA, Feature Selection, Model Evaluation  
