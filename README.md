@@ -4,7 +4,7 @@
 
 # 👋 About Me  
 
-Hello! I’m **Rajib**, a postgraduate student in **Engineering Mathematics** at the **Institute of Chemical Technology, Mumbai**.  
+Hello! I’m **Rajib**, a postgraduate student in **Engineering Mathematics** at the **Institute of Chemical Technology, Mumbai**. 
 
 My background started with **mathematics** and **statistics**, and gradually expanded to **optimization**, **machine learning**, and **deep learning**. I focus on using these tools to solve **real-world** problems.
 
