@@ -71,7 +71,3 @@ I plan to explore **panel data methods (fixed & random effects)** to understand 
 
 ---
 
-⚡ **Long-Term Vision**  
-I aspire to contribute to **research-driven AI**, focusing on:  
-- Curved Neural Networks & Geometric AI Architectures   
-- Intelligent systems that enhance **memory recall and optimization**  
